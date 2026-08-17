@@ -3,7 +3,7 @@
 ## Members
 
 - nycomp
-- Member 2
+- branch2
 - Member 3
 - Member 4
 
