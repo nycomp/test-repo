@@ -2,8 +2,8 @@
 
 ## Members
 
+- nycomp
 - branch2
-- Member 2
 - Member 3
 - Member 4
 
